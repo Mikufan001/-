@@ -1,0 +1,691 @@
+
+读取文件成功!
+________________________
+
+------正在进行调度-------
+Programs in readyQue:	
+P3
+P1
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:9.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:8.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P1
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:7.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:6.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P1
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:5.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:4.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P1
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:3.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:2.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P1
+
+Programs in InQue:	
+P2
+
+(Programs in inQue):P2's Current Instruction:I's RemainTime:1.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+P2
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P2
+P1
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+P1
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+P2
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P2
+P1
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+P1
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+P2
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P2
+P1
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+P1
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+P2
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P2
+P1
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+P1
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+P3
+P2
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+P2
+
+Programs in InQue:	
+P1
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:19.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:18.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:19.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:17.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:18.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:16.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:17.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:15.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:16.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:14.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:15.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P2
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:13.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:14.0
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:12.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:13.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:19.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:11.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:12.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:18.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:10.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:11.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:17.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:9.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:10.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:16.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:8.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:9.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:15.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:7.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:8.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:14.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:6.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:7.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:13.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:5.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:6.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:12.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:4.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:5.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:11.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:3.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:4.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:10.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:2.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:3.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:9.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+P1
+P3
+
+(Programs in inQue):P1's Current Instruction:I's RemainTime:1.0
+(Programs in inQue):P3's Current Instruction:I's RemainTime:2.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:8.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P1
+
+Programs in InQue:	
+P3
+
+(Programs in inQue):P3's Current Instruction:I's RemainTime:1.0
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:7.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:6.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:5.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:4.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:3.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:2.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+P2
+
+(Programs in outQue):P2's Current Instruction:O's RemainTime:1.0
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+P3
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+Programs in readyQue:	
+
+Programs in InQue:	
+
+Programs in OutQue:	
+
+Programs in WaitQue:	
+
+_______________________________
+调度已完成
